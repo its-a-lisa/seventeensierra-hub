@@ -52,7 +52,7 @@ sections:
   - type: section_content
     title: A Section With An Image
     section_id: text-img
-    image: images/jamstack.svg
+    image: /images/profilepicture-removebg-preview.png
     image_position: left
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
