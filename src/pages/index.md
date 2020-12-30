@@ -6,8 +6,8 @@ sections:
     section_id: hero
     image: /images/OR69HE0.jpg
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Central hub for advice, musings and opinions related to cybersecurity.
+      Coming from an angle of cyber risk management. 
     actions:
       - type: action
         label: Get Started
