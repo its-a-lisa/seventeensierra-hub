@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: section_hero
-    title: 'Cyber '
+    title: 'Cybersecurity '
     section_id: hero
     image: /images/OR69HE0.jpg
     content: >-
