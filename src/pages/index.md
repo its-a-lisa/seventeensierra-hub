@@ -7,7 +7,7 @@ sections:
     image: /images/OR69HE0.jpg
     content: >-
       Central hub for advice, musings and opinions related to cybersecurity.
-      Coming from an angle of cyber risk management. 
+      Content generated from a perspective of cyber risk management. 
     actions:
       - type: action
         label: Get Started
