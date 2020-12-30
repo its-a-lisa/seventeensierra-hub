@@ -110,7 +110,7 @@ sections:
   - type: section_cta
     title: That's cool & all ... but this looks a little... much
     section_id: cta
-    subtitle: You're totally right! This is meant to be my professional brand
+    subtitle: You're totally right! This is meant to support my professional brand
     actions:
       - type: action
         label: Take me to your personal site
