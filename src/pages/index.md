@@ -113,7 +113,7 @@ sections:
     subtitle: You're totally right! This is meant to be my professional brand
     actions:
       - type: action
-        label: Take me to the personal
+        label: Take me to your personal
         url: /docs/getting-started/installation
         style: primary
 template: advanced
