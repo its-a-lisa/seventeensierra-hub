@@ -2,12 +2,12 @@
 title: Home
 sections:
   - type: section_hero
-    title: Hero Section
+    title: Cybersecurity Advisory
     section_id: hero
     image: /images/OR69HE0.jpg
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Central hub for advice, musings and opinions related to cybersecurity.
+      Content generated from a perspective of cyber risk management. 
     actions:
       - type: action
         label: Get Started
@@ -18,7 +18,7 @@ sections:
     col_number: three
     grid_items:
       - type: grid_item
-        title: Documentation
+        title: Projects
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
@@ -29,7 +29,7 @@ sections:
             url: /docs
             style: link
       - type: grid_item
-        title: Blog
+        title: Writings
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
@@ -39,7 +39,7 @@ sections:
             url: /blog
             style: link
       - type: grid_item
-        title: Style Guide
+        title: Presentations
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
@@ -52,7 +52,7 @@ sections:
   - type: section_content
     title: A Section With An Image
     section_id: text-img
-    image: images/jamstack.svg
+    image: /images/17S_SM-Abstract.png
     image_position: left
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
@@ -108,12 +108,12 @@ sections:
             url: /showcase
             style: link
   - type: section_cta
-    title: The Title of The Call to Action Block
+    title: That's cool & all ... but this looks a little... much
     section_id: cta
-    subtitle: This is an optional description for the call to action block.
+    subtitle: You're totally right! This is meant to support my professional brand
     actions:
       - type: action
-        label: Get Started
+        label: Take me to your personal site
         url: /docs/getting-started/installation
         style: primary
 template: advanced
