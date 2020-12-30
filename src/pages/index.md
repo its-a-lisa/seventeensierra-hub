@@ -110,7 +110,7 @@ sections:
   - type: section_cta
     title: That's cool & all ... but this looks a little... much
     section_id: cta
-    subtitle: This is an optional description for the call to action block.
+    subtitle: You're totally right! This is meant to be my professional brand
     actions:
       - type: action
         label: Get Started
