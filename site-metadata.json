@@ -63,7 +63,8 @@
                 "style": "primary",
                 "has_subnav": false
             }
-        ]
+        ],
+        "logo_img": "/images/COMBO-17Sierra.png"
     },
     "footer": {
         "type": "footer",
