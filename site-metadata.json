@@ -23,6 +23,13 @@
             },
             {
                 "type": "action_menu",
+                "label": "Projects",
+                "url": "/style-guide",
+                "style": "link",
+                "has_subnav": false
+            },
+            {
+                "type": "action_menu",
                 "label": "Transformations",
                 "url": "#",
                 "style": "link",
@@ -41,13 +48,6 @@
                         "style": "link"
                     }
                 ]
-            },
-            {
-                "type": "action_menu",
-                "label": "Projects",
-                "url": "/style-guide",
-                "style": "link",
-                "has_subnav": false
             }
         ],
         "logo_img": "/images/COMBO-17Sierra.png"
