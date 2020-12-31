@@ -66,7 +66,7 @@ sections:
         style: primary
       - type: action
         label: Find out More
-        url: /docs/about
+        url: /docs/faq
         style: secondary
   - type: section_content
     title: Success @ SeventeenSierra
