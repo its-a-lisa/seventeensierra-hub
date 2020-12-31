@@ -125,7 +125,7 @@ sections:
     actions:
       - type: action
         label: Take me to your personal site
-        url: its-a-lisa.com
+        url: 'https://its-a-lisa.com'
         style: primary
         new_window: true
 template: advanced
