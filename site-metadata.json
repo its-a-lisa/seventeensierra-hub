@@ -16,15 +16,15 @@
             },
             {
                 "type": "action_menu",
-                "label": "Writings",
-                "url": "/blog",
+                "label": "Projects",
+                "url": "/style-guide",
                 "style": "link",
                 "has_subnav": false
             },
             {
                 "type": "action_menu",
-                "label": "Projects",
-                "url": "/style-guide",
+                "label": "Writings",
+                "url": "/blog",
                 "style": "link",
                 "has_subnav": false
             },
