@@ -31,8 +31,9 @@ sections:
       - type: grid_item
         title: Writings
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Follow SeventeenSierra as we explore the world of cyber risk
+          management from a perspective of human centeredness. Providing reviews
+          of long accepted practices and opinions on emerging topics.
         actions:
           - type: action
             label: Read Posts
