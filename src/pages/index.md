@@ -27,7 +27,7 @@ sections:
         actions:
           - type: action
             label: Explore Projects
-            url: /docs
+            url: /projects
             style: link
       - type: grid_item
         title: Writings
@@ -49,7 +49,7 @@ sections:
         actions:
           - type: action
             label: View Presentations
-            url: /style-guide
+            url: /presentations
             style: link
   - type: section_content
     title: SeventeenSierra ||17Sierra ||17S
@@ -61,12 +61,12 @@ sections:
       the speciality code designator "17S" to describe cyber-skilled officers. 
     actions:
       - type: action
-        label: Find out More
-        url: /docs/getting-started
+        label: View Overview
+        url: /docs/about
         style: primary
       - type: action
-        label: View Overview
-        url: /docs/getting-started
+        label: Find out More
+        url: /docs/faq
         style: secondary
   - type: section_content
     title: Success @ SeventeenSierra
@@ -78,7 +78,7 @@ sections:
     actions:
       - type: action
         label: Find out More
-        url: /docs/getting-started/installation
+        url: /docs/getting-started/quick-start
         style: primary
   - type: section_grid
     title: Cybersecurity Transformation
@@ -100,7 +100,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /overview
+            url: /docs/tools
             style: link
       - type: grid_item
         title: Advocacy
@@ -116,7 +116,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /advocacy
+            url: /docs/about/community
             style: link
   - type: section_cta
     title: That's cool & all ... but this looks a little... much

@@ -10,7 +10,7 @@
             {
                 "type": "action_menu",
                 "label": "Home",
-                "url": "/home",
+                "url": "/",
                 "style": "link",
                 "has_subnav": false
             },
@@ -49,13 +49,13 @@
                     {
                         "type": "action",
                         "label": "Initiatives",
-                        "url": "/initiatives",
+                        "url": "/docs/tools",
                         "style": "link"
                     },
                     {
                         "type": "action",
                         "label": "Advocacy",
-                        "url": "/advocacy",
+                        "url": "/docs/about/community",
                         "style": "link"
                     }
                 ]
