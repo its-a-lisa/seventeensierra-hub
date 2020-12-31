@@ -55,9 +55,9 @@ sections:
     image: /images/17S_SM-Circle.png
     image_position: left
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      SeventeenSierra is a hub for cybersecurity information. It is mainly
+      focused on cyber risk management, centered around the Cybersecurity
+      Framework and the Risk Management Framework. 
     actions:
       - type: action
         label: View Demo
