@@ -55,7 +55,7 @@
                     {
                         "type": "action",
                         "label": "Advocacy",
-                        "url": "/docs/about/community",
+                        "url": "/docs/community",
                         "style": "link"
                     }
                 ]
