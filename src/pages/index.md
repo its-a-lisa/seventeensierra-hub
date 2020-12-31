@@ -87,9 +87,14 @@ sections:
       - type: grid_item
         title: Initiatives
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+          SeventeenSierra chooses to invest time, energy and resources on
+          initiatives that need our support. 
+
+          - Getting & keeping more women in Cybersecurity
+
+          - Briding the gap between security and compliance
+
+          - Automating cybersecurity as much as possible
         actions:
           - type: action
             label: Learn More
