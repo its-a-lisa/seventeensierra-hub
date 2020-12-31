@@ -62,7 +62,7 @@ sections:
     actions:
       - type: action
         label: View Overview
-        url: /docs/faq
+        url: /docs/about
         style: primary
       - type: action
         label: Find out More
