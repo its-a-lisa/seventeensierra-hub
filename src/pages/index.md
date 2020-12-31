@@ -100,7 +100,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /overview
+            url: /docs/tools
             style: link
       - type: grid_item
         title: Advocacy
