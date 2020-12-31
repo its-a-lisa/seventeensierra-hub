@@ -50,7 +50,7 @@ sections:
             url: /style-guide
             style: link
   - type: section_content
-    title: SeventeenSierra - (n)
+    title: SeventeenSierra ||17Sierra ||17S
     section_id: text-img
     image: /images/17S_SM-Circle.png
     image_position: left
