@@ -55,7 +55,7 @@
                     {
                         "type": "action",
                         "label": "Advocacy",
-                        "url": "/presentations",
+                        "url": "/advocacy",
                         "style": "link"
                     }
                 ]
