@@ -79,7 +79,7 @@ sections:
         url: /docs/getting-started/installation
         style: primary
   - type: section_grid
-    title: Sample Layouts
+    title: Cybersecurity Transformation
     section_id: features-two-col
     subtitle: An optional subtitle of the section
     col_number: two
