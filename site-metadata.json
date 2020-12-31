@@ -55,7 +55,7 @@
                     {
                         "type": "action",
                         "label": "Showcase",
-                        "url": "/showcase",
+                        "url": "/advocacy",
                         "style": "link"
                     }
                 ]
