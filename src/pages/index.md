@@ -70,8 +70,9 @@ sections:
     title: Where does 'SeventeenSierra' come from?
     section_id: text-no-img
     content: >-
-      Around 2015 (give or take a few years) the United States Air Force used
-      the speciality code designator "17S" to describe cyber-skilled officers. 
+      SeventeenSierra is a hub for cybersecurity information. It is mainly
+      focused on cyber risk management, centered around the Cybersecurity
+      Framework and the Risk Management Framework. 
     actions:
       - type: action
         label: Find out More
