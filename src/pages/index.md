@@ -20,9 +20,8 @@ sections:
       - type: grid_item
         title: Projects
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          SeventeenSierra strives to automate the boring stuff related to cyber
+          risk management. 
         actions:
           - type: action
             label: Explore Projects
