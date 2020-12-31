@@ -30,7 +30,7 @@
             },
             {
                 "label": "Presentations",
-                "url": "lorem-ipsum",
+                "url": "/presentations",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
