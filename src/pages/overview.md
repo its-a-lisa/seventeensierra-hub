@@ -1,5 +1,5 @@
 ---
-title: Initiatives
+title: Projects
 sections:
   - type: section_hero
     title: Initiatives
