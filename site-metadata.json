@@ -29,6 +29,17 @@
                 "has_subnav": false
             },
             {
+                "label": "Presentations",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "has_subnav": false,
+                "subnav_links": [],
+                "type": "action_menu"
+            },
+            {
                 "type": "action_menu",
                 "label": "Transformations",
                 "url": "#",
@@ -48,17 +59,6 @@
                         "style": "link"
                     }
                 ]
-            },
-            {
-                "label": "Presentations",
-                "url": "lorem-ipsum",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "has_subnav": false,
-                "subnav_links": [],
-                "type": "action_menu"
             }
         ],
         "logo_img": "/images/COMBO-17Sierra.png"
