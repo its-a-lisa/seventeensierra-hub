@@ -60,7 +60,7 @@ sections:
       Framework and the Risk Management Framework. 
     actions:
       - type: action
-        label: View Demo
+        label: View Overview
         url: /docs/getting-started
         style: primary
       - type: action
