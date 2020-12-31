@@ -98,9 +98,14 @@ sections:
       - type: grid_item
         title: Advocacy
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          SeventeenSierra has several core beliefs that warrant having firms
+          positions on and taking every chance possible to advocate for them. 
+
+          - Security will never be done
+
+          - Diversity makes security better
+
+          - Security should be human centered
         actions:
           - type: action
             label: Learn More
