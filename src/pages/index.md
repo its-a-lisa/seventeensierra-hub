@@ -25,7 +25,7 @@ sections:
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
         actions:
           - type: action
-            label: View Projects
+            label: Explore Projects
             url: /docs
             style: link
       - type: grid_item
