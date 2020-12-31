@@ -41,7 +41,7 @@
             },
             {
                 "type": "action_menu",
-                "label": "Initiatives",
+                "label": "Transformations",
                 "url": "#",
                 "style": "link",
                 "has_subnav": true,
