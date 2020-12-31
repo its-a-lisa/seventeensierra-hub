@@ -24,7 +24,7 @@
             {
                 "type": "action_menu",
                 "label": "Writings",
-                "url": "https://blog.",
+                "url": "https://blog.seventeensierra",
                 "style": "link",
                 "has_subnav": false
             },
