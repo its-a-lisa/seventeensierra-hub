@@ -24,7 +24,7 @@
             {
                 "type": "action_menu",
                 "label": "Writings",
-                "url": "",
+                "url": "/blog",
                 "style": "link",
                 "has_subnav": false
             },
