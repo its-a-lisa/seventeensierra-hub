@@ -43,9 +43,9 @@ sections:
       - type: grid_item
         title: Presentations
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          SeventeenSierra spreads the word about cyber risk management
+          frequently and passionately. The presentations vary from speaking
+          engagements to webinars to podcasts. 
         actions:
           - type: action
             label: View Presentations
