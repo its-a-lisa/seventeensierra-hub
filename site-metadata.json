@@ -17,20 +17,20 @@
             {
                 "type": "action_menu",
                 "label": "Projects",
-                "url": "/style-guide",
+                "url": "/projects",
                 "style": "link",
                 "has_subnav": false
             },
             {
                 "type": "action_menu",
                 "label": "Writings",
-                "url": "/blog",
+                "url": "blog.seventeensierra.com",
                 "style": "link",
                 "has_subnav": false
             },
             {
                 "label": "Presentations",
-                "url": "lorem-ipsum",
+                "url": "/presentations",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
@@ -49,12 +49,12 @@
                     {
                         "type": "action",
                         "label": "Initiatives",
-                        "url": "/overview",
+                        "url": "/initiatives",
                         "style": "link"
                     },
                     {
                         "type": "action",
-                        "label": "Showcase",
+                        "label": "Advocacy",
                         "url": "/advocacy",
                         "style": "link"
                     }
