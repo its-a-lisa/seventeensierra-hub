@@ -35,7 +35,7 @@ sections:
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
         actions:
           - type: action
-            label: View Posts
+            label: Read Posts
             url: /blog
             style: link
       - type: grid_item
