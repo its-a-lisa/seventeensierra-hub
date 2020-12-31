@@ -116,7 +116,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /showcase
+            url: /advocacy
             style: link
   - type: section_cta
     title: That's cool & all ... but this looks a little... much
