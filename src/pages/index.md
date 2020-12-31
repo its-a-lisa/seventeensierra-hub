@@ -20,8 +20,10 @@ sections:
       - type: grid_item
         title: Projects
         content: >-
-          SeventeenSierra strives to automate the boring stuff related to cyber
-          risk management. 
+          SeventeenSierra strives to alleviate the mundane, repetitive stuff
+          related to cyber risk management.  We intend to automate processes by
+          looking for ways to make things just a little easier by developing
+          tools so that people can focus their energy on the real tough stuff. 
         actions:
           - type: action
             label: Explore Projects
