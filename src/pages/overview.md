@@ -2,7 +2,7 @@
 title: Projects
 sections:
   - type: section_hero
-    title: Initiatives
+    title: Projects
     section_id: hero
     image: images/5.jpg
     content: An optional subtitle
