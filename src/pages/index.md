@@ -78,7 +78,7 @@ sections:
     actions:
       - type: action
         label: Find out More
-        url: /docs/getting-started/installation
+        url: /docs/getting-started/quick-start
         style: primary
   - type: section_grid
     title: Cybersecurity Transformation
