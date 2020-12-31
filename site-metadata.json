@@ -16,7 +16,7 @@
             },
             {
                 "type": "action_menu",
-                "label": "Blog",
+                "label": "Writings",
                 "url": "/blog",
                 "style": "link",
                 "has_subnav": false
