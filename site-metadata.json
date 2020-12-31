@@ -3,7 +3,7 @@
     "palette": "blue",
     "header": {
         "type": "header",
-        "title": "SeventeenSierra",
+        "title": "",
         "logo_img_alt": "SeventeenSierra",
         "has_nav": true,
         "nav_links": [
