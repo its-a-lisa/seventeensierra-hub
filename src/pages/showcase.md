@@ -30,5 +30,6 @@ sections:
         title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
         image: images/9.jpg
         content: Medium inspired blogging theme for Unibit
+    title: Presentations
 template: advanced
 ---
