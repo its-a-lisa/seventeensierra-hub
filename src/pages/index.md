@@ -27,7 +27,7 @@ sections:
         actions:
           - type: action
             label: Explore Projects
-            url: /docs
+            url: /projects
             style: link
       - type: grid_item
         title: Writings
