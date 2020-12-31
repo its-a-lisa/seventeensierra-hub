@@ -114,7 +114,7 @@ sections:
     actions:
       - type: action
         label: Take me to your personal site
-        url: /docs/getting-started/installation
+        url: its-a-lisa.com
         style: primary
 template: advanced
 ---
