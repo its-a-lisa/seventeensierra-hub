@@ -81,7 +81,7 @@ sections:
   - type: section_grid
     title: Cybersecurity Transformation
     section_id: features-two-col
-    subtitle: An optional subtitle of the section
+    subtitle: Creativity is the key to cybersecurity
     col_number: two
     grid_items:
       - type: grid_item
