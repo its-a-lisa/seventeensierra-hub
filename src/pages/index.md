@@ -46,7 +46,7 @@ sections:
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
         actions:
           - type: action
-            label: Learn More
+            label: View Presentations
             url: /style-guide
             style: link
   - type: section_content
