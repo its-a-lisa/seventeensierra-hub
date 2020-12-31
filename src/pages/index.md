@@ -116,7 +116,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /docs/about/community
+            url: /docs/community
             style: link
   - type: section_cta
     title: That's cool & all ... but this looks a little... much
