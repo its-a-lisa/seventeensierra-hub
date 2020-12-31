@@ -67,7 +67,7 @@ sections:
         url: /docs/getting-started
         style: secondary
   - type: section_content
-    title: SeventeenSierra
+    title: Success @ SeventeenSierra
     section_id: text-no-img
     content: >-
       SeventeenSierra is a hub for cybersecurity information. It is mainly
