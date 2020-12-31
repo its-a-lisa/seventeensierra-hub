@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Initia
 sections:
   - type: section_hero
     title: Initiatives
