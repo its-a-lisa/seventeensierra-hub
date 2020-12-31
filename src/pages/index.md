@@ -55,9 +55,8 @@ sections:
     image: /images/17S_SM-Circle.png
     image_position: left
     content: >-
-      SeventeenSierra is a hub for cybersecurity information. It is mainly
-      focused on cyber risk management, centered around the Cybersecurity
-      Framework and the Risk Management Framework. 
+      Around 2015 (give or take a few years) the United States Air Force used
+      the speciality code designator "17S" to describe cyber-skilled officers. 
     actions:
       - type: action
         label: View Overview
