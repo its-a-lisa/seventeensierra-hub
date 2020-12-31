@@ -49,7 +49,7 @@ sections:
         actions:
           - type: action
             label: View Presentations
-            url: /style-guide
+            url: /presentations
             style: link
   - type: section_content
     title: SeventeenSierra ||17Sierra ||17S
