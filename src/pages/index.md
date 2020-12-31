@@ -50,7 +50,7 @@ sections:
             url: /style-guide
             style: link
   - type: section_content
-    title: A Section With An Image
+    title: SeventeenSierra Vision
     section_id: text-img
     image: /images/17S_SM-Circle.png
     image_position: left
