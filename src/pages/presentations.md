@@ -1,5 +1,6 @@
 ---
 title: Home
+excerpt: lorem-ipsum
 sections:
   - type: section_hero
     title: Cybersecurity Advisory
