@@ -71,9 +71,8 @@ sections:
     title: Where does 'SeventeenSierra' come from?
     section_id: text-no-img
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Around 2015 (give or take a few years) the United States Air Force used
+      the speciality code designator "17S" to describe cyber-skilled officers. 
     actions:
       - type: action
         label: Get Started
