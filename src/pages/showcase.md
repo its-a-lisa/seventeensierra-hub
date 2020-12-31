@@ -1,5 +1,5 @@
 ---
-title: Showcase
+title: Presentations
 sections:
   - type: section_hero
     title: Showcase
