@@ -10,7 +10,7 @@
             {
                 "type": "action_menu",
                 "label": "Home",
-                "url": "/",
+                "url": "/home",
                 "style": "link",
                 "has_subnav": false
             },
