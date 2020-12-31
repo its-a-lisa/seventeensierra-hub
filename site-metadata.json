@@ -48,7 +48,7 @@
                 "subnav_links": [
                     {
                         "type": "action",
-                        "label": "Overview",
+                        "label": "Initiatives",
                         "url": "/overview",
                         "style": "link"
                     },
