@@ -65,7 +65,7 @@ sections:
         url: /docs/faq
         style: primary
       - type: action
-        label: View Overview
+        label: Find out More
         url: /docs/about
         style: secondary
   - type: section_content
