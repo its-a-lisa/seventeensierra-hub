@@ -17,7 +17,7 @@
             {
                 "type": "action_menu",
                 "label": "Projects",
-                "url": "/style-guide",
+                "url": "/projects",
                 "style": "link",
                 "has_subnav": false
             },
